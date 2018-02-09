@@ -242,3 +242,7 @@ ModelManifest.xml
 tools/
 dist/
 artifacts/
+
+
+# Visual Studio 2015 cache/options directory
+.vscode/
